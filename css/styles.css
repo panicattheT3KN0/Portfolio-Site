@@ -40,7 +40,7 @@ Secondary Color (Periwinkle): #6667AB;
 	}
 
 	a {
-		color: var(--dark-purple);
+		color: var(--dark-green);
 	}
 
 	a:hover, a:focus {
@@ -50,7 +50,7 @@ Secondary Color (Periwinkle): #6667AB;
 
 	a:visited {
 		/* visited link*/
-		color: var(--dark-green);
+		color: var(--dark-purple);
 	}
 
 	a:active {
