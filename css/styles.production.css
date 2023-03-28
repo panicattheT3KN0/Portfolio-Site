@@ -38,7 +38,7 @@ h3 {
 }
 
 a {
-   color: #690097;
+   color: #024e60;
 }
 
 a:hover, a:focus {
@@ -48,7 +48,7 @@ a:hover, a:focus {
 
 a:visited {
    /* visited link*/
-   color: #024e60;
+   color: #690097;
 }
 
 a:active {
